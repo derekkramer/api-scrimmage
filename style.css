@@ -1,6 +1,26 @@
+h1 {
+    margin-left: 30px;
+}
+
+h2 {
+    margin-left: 90px;
+    font-size: 24pt;
+}
+
+#navigation {
+    background-color: #239a8d;
+    margin: 0 30px 0 30px;
+    width: auto;
+}
+
+#blue {
+    color: #239a8d;
+}
+
 div.card {
     width: 50%;
     margin: auto;
+    margin-top: 20px;
 }
 
 #beer {
