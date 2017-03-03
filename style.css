@@ -1,0 +1,11 @@
+div.card {
+    width: 50%;
+    margin: auto;
+}
+
+#beer {
+    width: auto;
+    height: 400px;
+    margin: auto;
+    padding: 20px 0 20px 0;
+}

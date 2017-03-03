@@ -18,6 +18,8 @@ $.get(url).then(function(data){
 
     code += '</select>';
 
-    console.log(code);
+    // console.log(code);
     $('body').append(code);
+}).then(function(){
+    
 });
